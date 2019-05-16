@@ -1,5 +1,5 @@
 # Lotto
----
 
-practice
-practice
+# Using Python, Django
+
+# Deploy: Heroku
