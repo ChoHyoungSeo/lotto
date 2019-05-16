@@ -1,4 +1,4 @@
-# Lotto
+# Lottery program
 
 # Using Python, Django
 
